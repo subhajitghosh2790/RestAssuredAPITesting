@@ -13,6 +13,8 @@ public class TC001_GET_Request {
 	@Test
 	void getWeatherCondition() {
 
+		//just changed on git
+		
 		// Base URI
 		RestAssured.baseURI = "http://restapi.demoqa.com/utilities/weather/city";
 
